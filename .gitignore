@@ -1,4 +1,6 @@
 __pycache__
 result
 log.txt
+*.png
+*.jpg
 *~
